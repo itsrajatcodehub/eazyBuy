@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@1,600&display=swap');
+
+.header nav div a {
+    font-size: 40px;
+}
+
+.header nav{
+    background-color: blue;
+}
+
+.header nav div{
+    font-family: 'Nunito Sans', sans-serif;
+}
